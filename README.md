@@ -504,3 +504,5 @@
   5. 메인메뉴 제작.
 
   <img src="./img/6week.gif">
+
+<!-- README display commit refreshed. -->
