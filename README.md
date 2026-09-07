@@ -27,6 +27,7 @@
 #### d. [개발작업(4주)](#10_4)
 #### e. [개발작업(5주)](#10_5)
 #### f. [개발작업(6주)](#10_6)
+### 11. [플레이 영상](#11)
 
 
 # [컨셉] <a name='2'></a>
@@ -504,5 +505,11 @@
   5. 메인메뉴 제작.
 
   <img src="./img/6week.gif">
+
+# [플레이 영상] <a name='11'></a>
+
+[![Othello gameplay video](https://img.youtube.com/vi/uZTghGg4BYg/maxresdefault.jpg)](https://youtu.be/uZTghGg4BYg)
+
+> 이미지를 클릭하면 플레이 영상으로 이동합니다.
 
 <!-- README display commit refreshed. -->
